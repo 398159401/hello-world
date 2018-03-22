@@ -1,2 +1,2 @@
 # hello-world
-a time-honored tradition for my first testing
+a time-honored tradition for my first test
